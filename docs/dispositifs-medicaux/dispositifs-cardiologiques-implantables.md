@@ -1,6 +1,6 @@
 ---
-title: DCI
-description: Dispositifs cardiologiques implantables
+title: Dispositifs cardiologiques implantables
+description: DCI
 tags: [DCI, cardiologie, DM]
 ---
 

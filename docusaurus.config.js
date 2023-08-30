@@ -42,7 +42,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/', // Serve the docs at the site's root
           editUrl:
-            'https://github.com/agence-innovation-sante/veille-collaborative',
+            'https://github.com/agence-innovation-sante/veille-collaborative/blob/main',
         },
         blog: {
           showReadingTime: true,
