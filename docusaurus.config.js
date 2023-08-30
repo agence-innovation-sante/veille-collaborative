@@ -10,6 +10,8 @@ const config = {
   tagline: "Veille collaborative de l'Agence de l'innovation en santé",
   favicon: 'img/favicon.ico',
 
+  baseUrl: '/',
+
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'agence-innovation-sante', // Usually your GitHub org/user name.
