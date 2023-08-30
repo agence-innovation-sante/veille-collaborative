@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[842],{9295:e=>{e.exports=JSON.parse('{"label":"data science","permalink":"/tags/data-science","allTagsPath":"/tags","count":1,"items":[{"id":"data-science/ia-generative","title":"IA g\xe9n\xe9rative","description":"L\'IA qui g\xe9n\xe8re","permalink":"/data-science/ia-generative"}]}')}}]);

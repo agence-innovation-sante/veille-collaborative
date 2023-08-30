@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[862],{8172:e=>{e.exports=JSON.parse('{"label":"traitement","permalink":"/tags/traitement","allTagsPath":"/tags","count":1,"items":[{"id":"traitements/cellules-car-t","title":"Cellules CAR-T","description":"Des cellules qui cartonnent","permalink":"/traitements/cellules-car-t"}]}')}}]);

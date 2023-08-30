@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[891],{3304:e=>{e.exports=JSON.parse('{"label":"introduction","permalink":"/veille-collaborative/blog/tags/introduction","allTagsPath":"/veille-collaborative/blog/tags","count":1}')}}]);
