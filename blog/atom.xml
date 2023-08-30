@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://agence-innovation-sante.github.io/blog</id>
+    <title>Veille collaborative AIS Blog</title>
+    <updated>2023-08-30T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://agence-innovation-sante.github.io/blog"/>
+    <subtitle>Veille collaborative AIS Blog</subtitle>
+    <icon>https://agence-innovation-sante.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Bienvenue]]></title>
+        <id>https://agence-innovation-sante.github.io/blog/bienvenue</id>
+        <link href="https://agence-innovation-sante.github.io/blog/bienvenue"/>
+        <updated>2023-08-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p><img loading="lazy" src="https://media.giphy.com/media/OF0yOAufcWLfi/giphy.gif" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Dinh-Phong Nguyen</name>
+            <uri>https://github.com/xylophong</uri>
+        </author>
+        <category label="hello" term="hello"/>
+        <category label="introduction" term="introduction"/>
+    </entry>
+</feed>
